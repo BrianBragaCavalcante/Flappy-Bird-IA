@@ -2,7 +2,6 @@ import pygame
 import os
 import random
 import neat
-import base64
 
 ai_jogando = bool
 geracao = 0
