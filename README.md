@@ -1,4 +1,4 @@
-# Flappy Bird com IA ![pássaro](https://github.com/BrianBragaCavalcante/Flappy-Bird-IA/assets/114585145/1888f266-72cd-42a8-a138-282be6934f58)
+# Flappy Bird com IA  ![pássaro](https://github.com/BrianBragaCavalcante/Flappy-Bird-IA/assets/114585145/1888f266-72cd-42a8-a138-282be6934f58)
 
 Esse é um projeto para ensinar uma inteligência artificial a jogar o jogo do **Flappy Bird** usadno a biblioteca [**NEAT-Python**](https://neat-python.readthedocs.io/en/latest/)
 
