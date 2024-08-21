@@ -3,3 +3,7 @@ examples/
 tests/
 .idea/
 venv/
+
+build/
+dist/
+*.spec
